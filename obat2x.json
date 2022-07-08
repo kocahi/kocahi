@@ -1,0 +1,17 @@
+[
+{
+ "nama": "Paracetamol",
+ "harga": 10000,
+ "deskripsi": "Paracetamol adalah obat untuk meredakan demam dan nyeri, termasuk nyeri haid atau sakit gigi"
+},
+{
+"nama": "Promag",
+"harga": 15000,
+"deskripsi": "PROMAG merupakan obat sakit maag dengan kandungan Hydrotalcite, Mg(OH)2, Simethicone dalam bentuk tablet"
+},
+{
+"nama": "aspirin",
+"harga": 20000,
+"deskripsi": "Aspirin merupakan obat yang bisa menyembuhkan demam, jerawat dan anti imflamasi"
+}
+]
