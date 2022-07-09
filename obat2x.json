@@ -16,5 +16,11 @@
 "harga": 20000,
 "deskripsi": "Aspirin merupakan obat yang bisa menyembuhkan demam, jerawat dan anti imflamasi",
  "gambar": "https://i.imgur.com/iFsa9JA.jpeg"
+},
+ {
+"nama": "bodrex",
+"harga": 10000,
+"deskripsi": "Bodrex adalah obat untuk mengurangi rasa sakit kepala",
+ "gambar": "https://i.imgur.com/BR4qr4K.jpeg"
 }
 ]
