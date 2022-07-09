@@ -2,16 +2,19 @@
 {
  "nama": "Paracetamol",
  "harga": 10000,
- "deskripsi": "Paracetamol adalah obat untuk meredakan demam dan nyeri, termasuk nyeri haid atau sakit gigi"
+ "deskripsi": "Paracetamol adalah obat untuk meredakan demam dan nyeri, termasuk nyeri haid atau sakit gigi",
+ "gambar": "https://imgur.com/a/ewhXrlR"
 },
 {
 "nama": "Promag",
 "harga": 15000,
-"deskripsi": "PROMAG merupakan obat sakit maag dengan kandungan Hydrotalcite, Mg(OH)2, Simethicone dalam bentuk tablet"
+"deskripsi": "PROMAG merupakan obat sakit maag dengan kandungan Hydrotalcite, Mg(OH)2, Simethicone dalam bentuk tablet",
+ "gambar": "https://imgur.com/a/ewhXrlR"
 },
 {
 "nama": "aspirin",
 "harga": 20000,
-"deskripsi": "Aspirin merupakan obat yang bisa menyembuhkan demam, jerawat dan anti imflamasi"
+"deskripsi": "Aspirin merupakan obat yang bisa menyembuhkan demam, jerawat dan anti imflamasi",
+ "gambar": "https://imgur.com/a/ewhXrlR"
 }
 ]
