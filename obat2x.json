@@ -28,5 +28,11 @@
 "harga": 20000,
 "deskripsi": "Aceon adalah merupakan obat untuk menurunkan darah tinggi",
  "gambar": "https://i.imgur.com/e7LfZ9A.jpeg"
+},
+{
+"nama": "diatab",
+"harga": 6000,
+"deskripsi": "Diatab adalah obat untuk mengurangi gejala diare dan skait perut",
+ "gambar": "https://i.imgur.com/pxvFq5T.jpeg"
 }
 ]
