@@ -22,5 +22,11 @@
 "harga": 10000,
 "deskripsi": "Bodrex adalah obat untuk mengurangi rasa sakit kepala",
  "gambar": "https://i.imgur.com/BR4qr4K.jpeg"
+},
+ {
+"nama": "aceon",
+"harga": 20000,
+"deskripsi": "Aceon adalah merupakan obat untuk menurunkan darah tinggi",
+ "gambar": "https://i.imgur.com/e7LfZ9A.jpeg"
 }
 ]
